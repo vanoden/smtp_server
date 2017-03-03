@@ -1,0 +1,17 @@
+# Path for incoming mail storage
+maildir=/export/maildir
+
+# Hostname
+hostname = testme.mail.com
+
+# Bind Address
+address = 127.0.0.1
+
+# Bind Port
+port = 25
+
+# Protocol
+protocol = tcp
+
+# Log Verbosity
+log_level = 9
